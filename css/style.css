@@ -1,7 +1,11 @@
 body{
-	background-color: #1693A5;
+	background-color: #EC9566;
 }
 
 td{
 	padding: 2px;
+}
+
+.debutpartie{
+	margin: 20px;
 }
